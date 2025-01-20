@@ -1,2 +1,2 @@
 # AutoRepo
-scripts for deploying infrastructure, network, and security automation.
+scripts for deploying infrastructure, network, and security automation. preferably bash or powershell. 
